@@ -2,4 +2,4 @@ Require: The target system must have systemd and php installed.
 
 Statement: This project is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License.
 
-Related Links: [LanTurtle meterpreter module on Ubuntu](https://droid-max.github.io/2019/02/16/LanTurtle_meterpreter_module_on_Ubuntu/)
+Related Links: https://droid-max.github.io/2019/02/16/LanTurtle_meterpreter_module_on_Ubuntu/
